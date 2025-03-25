@@ -5,12 +5,12 @@ import "./styles.css";
 import React, { useState, useEffect } from "react";
 
 // Importação de Imagens
-// import ImgPri from "../../assets/img/img_pri.png";
-import ImgSec1 from "../../assets/img/Img_Tim_Pri.jpg";
-import ImgSec2 from "../../assets/img/Img_Tim_Pri-2.jpg";
-import ImgSec3 from "../../assets/img/Img_Tim_Pri-3.jpg";
-import ImgSec4 from "../../assets/img/Img_Tim_Pri-4.jpg";
-import ImgSec5 from "../../assets/img/Img_Tim_Pri-5.jpg";
+// import ImgPri from "/assets/img/img_pri.png";
+import ImgSec1 from "/assets/img/Img_Tim_Pri.jpg";
+import ImgSec2 from "/assets/img/Img_Tim_Pri-2.jpg";
+import ImgSec3 from "/assets/img/Img_Tim_Pri-3.jpg";
+import ImgSec4 from "/assets/img/Img_Tim_Pri-4.jpg";
+import ImgSec5 from "/assets/img/Img_Tim_Pri-5.jpg";
 // Adicione outras importações para suas imagens secundárias, se necessário
 
 const ImgPriDes = () => {

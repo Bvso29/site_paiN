@@ -1,7 +1,7 @@
 import "./styles.css";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // import { faCartShopping } from "@fortawesome/free-solid-svg-icons";
-import CamisaManto from "../../assets/img/manto-2.jpg";
+import CamisaManto from "/assets/img/manto-2.jpg";
 import { RadioSize } from "../fragments/Radiosize/index.jsx";
 
 export const ShirtSales = () => {

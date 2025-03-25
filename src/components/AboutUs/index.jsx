@@ -7,11 +7,11 @@ import "./linha_temporal.css";
 // import "./jquery.cntl"
 import "./script.js"
 
-import Imagem001 from "../../assets/img/Area_Interna/Imagem001.jpg";
-import Imagem002 from "../../assets/img/Area_Interna/Imagem002.jpg";
-import Imagem003 from "../../assets/img/Area_Interna/Imagem003.jpg";
-import ImagemTrofeu from "../../assets/img/Sobre_Nos/trofeu.png";
-import LogoOffice from "../../assets/img/logo_the_office.png";
+import Imagem001 from "/assets/img/Area_Interna/Imagem001.jpg";
+import Imagem002 from "/assets/img/Area_Interna/Imagem002.jpg";
+import Imagem003 from "/assets/img/Area_Interna/Imagem003.jpg";
+import ImagemTrofeu from "/assets/img/Sobre_Nos/trofeu.png";
+import LogoOffice from "/assets/img/logo_the_office.png";
 
 export const AboutUs = () => {
   return (

@@ -1,11 +1,11 @@
 // Import Css
 import "../footer/styles.css";
 
-import LogoRodape from "../../assets/img/logo_pain_gaming.png";
+import LogoRodape from "/assets/img/logo_pain_gaming.png";
 
 // Import Logo
-import LogoGif from "../../assets/img/Gif_Logo.mp4";
-import LogoPain from "../../assets/img/logo_branca.png";
+import LogoGif from "/assets/img/Gif_Logo.mp4";
+import LogoPain from "/assets/img/logo_branca.png";
 
 import { RedSoc } from "../fragments/RedSoc";
 

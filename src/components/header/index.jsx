@@ -4,7 +4,7 @@ import "../header/styles.css";
 import "../imports/index.jsx";
 
 // Import Logo
-import LogoGif from "../../assets/img/Gif_Logo.mp4";
+import LogoGif from "/assets/img/Gif_Logo.mp4";
 
 // Importaação Icones Fontwelson Solid
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";

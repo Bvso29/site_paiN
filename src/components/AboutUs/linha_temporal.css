@@ -92,7 +92,7 @@
     box-shadow: 0px 0px 19px -9px #000;
     position: absolute;
     top: 0;
-    background: rgb(0, 0, 0) url(../../assets/img/logo_branca.png) no-repeat
+    background: rgb(0, 0, 0) url(/assets/img/logo_branca.png) no-repeat
         center center;
     z-index: 2;
 

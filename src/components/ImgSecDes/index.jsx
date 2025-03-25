@@ -1,14 +1,14 @@
 // Estilização
 import "./styles.css";
 // Imagens Importação
-import ImgTim from "../../assets/img/Time_Img.png";
-import ImgTimHov from "../../assets/img/nos_tim_peq.png";
-import ImgYou from "../../assets/img/thumb-1.png";
-import ImgYouHov from "../../assets/img/thumb-1.png";
-import ImgMan from "../../assets/img/manto-1.jpg";
-import ImgManHov from "../../assets/img/manto-1.jpg";
-import ImgSub from "../../assets/img/subway-1.jpg";
-import ImgSubHov from "../../assets/img/subway-2.jpg";
+import ImgTim from "/assets/img/Time_Img.png";
+import ImgTimHov from "/assets/img/nos_tim_peq.png";
+import ImgYou from "/assets/img/Thumb-1.png";
+import ImgYouHov from "/assets/img/Thumb-1.png";
+import ImgMan from "/assets/img/manto-1.jpg";
+import ImgManHov from "/assets/img/manto-1.jpg";
+import ImgSub from "/assets/img/subway-1.jpg";
+import ImgSubHov from "/assets/img/subway-2.jpg";
 import "./script.js"
 
 // Lógica da troca de imagem por Hover

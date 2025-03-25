@@ -1,11 +1,11 @@
 // Import Css
 import "../patrocinadores/styles.css";
-import LogoTim from "../../assets/img/patrocinadores/tim_live.png";
-import LogoBmw from "../../assets/img/patrocinadores/bmw.png";
-import LogoSubway from "../../assets/img/patrocinadores/subway.png";
-import LogoMotorola from "../../assets/img/patrocinadores/motorola.png";
-import LogoJbl from "../../assets/img/patrocinadores/jbl.png";
-import LogoEsporte from "../../assets/img/patrocinadores/esporte_da_sorte.png";
+import LogoTim from "/assets/img/patrocinadores/tim_live.png";
+import LogoBmw from "/assets/img/patrocinadores/bmw.png";
+import LogoSubway from "/assets/img/patrocinadores/subway.png";
+import LogoMotorola from "/assets/img/patrocinadores/motorola.png";
+import LogoJbl from "/assets/img/patrocinadores/jbl.png";
+import LogoEsporte from "/assets/img/patrocinadores/esporte_da_sorte.png";
 
 import "./script.js";
 
