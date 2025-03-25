@@ -23,7 +23,7 @@
 
 body {
     margin: 0;
-    background-image: url(assets/img/bkg_body_black.png);
+    background-image: url("/assets/img/bkg_body_black.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
